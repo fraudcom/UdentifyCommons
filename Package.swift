@@ -17,8 +17,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "UdentifyCommons",
-            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/397611948.zip",
-            checksum: "8edecfd4ddbb93d305c8131c7bc6b415cec3e0b460940b4fbb8901b80aa44282"
+            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/397880874.zip",
+            checksum: "d15a8142623c5d18fa94ea82cadd6d794c29a35d4e4a3cf3f9605b2d9f2a3df9"
         )
     ]
 )
